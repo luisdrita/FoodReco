@@ -12,17 +12,17 @@ This repository provides a Pytorch implementation of **FlavorGraph2Vec**, traine
 > For more details to find out what we do, please visit *https://dmis.korea.ac.kr/*
 
 ## Pipeline & Abstract
-![FlavorGraph](/images/flavorgraph.png)
+![FlavorGraph](./images/flavorgraph.png)
 <p align="center">
   <b> FlavorGraph </b>
 </p>
 
-![FlavorGraph2Vec](/images/flavorgraph2vec.png)
+![FlavorGraph2Vec](./images/flavorgraph2vec.png)
 <p align="center">
   <b> FlavorGraph2Vec Architecture </b>
 </p>
 
-![Embeddings](/images/embeddings.png)
+![Embeddings](./images/embeddings.png)
 <p align="center">
   <b> FlavorGraph2Vec Node Embeddings </b>
 </p>
